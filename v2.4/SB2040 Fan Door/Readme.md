@@ -9,8 +9,8 @@ The fan should be oriented to blow on the board, you'll need to remove the wires
 
 Versions:
 
-– SB2040 door with capacitor relief NO FAN provides clearance for the capacitor at the top of the board but is otherwise stock.
+– "SB2040 door with capacitor relief NO FAN" provides clearance for the capacitor at the top of the board but is otherwise stock.
 
-– SB2040 door with capacitor relief and fan mount for the cooling fan.
+– "SB2040 door with capacitor relief and fan mount" provides clearance for the capacitor at the top of the board and a mount for the cooling fan.
 
 Thanks to garbqgebag V2.1135 V0.610 on the VoronDesign Discord for early testing.
