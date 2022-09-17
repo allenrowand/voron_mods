@@ -9,7 +9,7 @@ The fan should be oriented to blow on the board, you'll need to remove the wires
 
 Versions:
 
-– SB2040 door with capacitor relief NO FAN v2 provides clearance for the capacitor at the top of the board but is otherwise stock.
+– SB2040 door with capacitor relief NO FAN provides clearance for the capacitor at the top of the board but is otherwise stock.
 
 – SB2040 door with capacitor relief and fan mount for the cooling fan.
 
