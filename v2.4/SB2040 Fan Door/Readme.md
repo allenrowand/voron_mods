@@ -9,3 +9,5 @@ Versions:
 – SB2040 door with capacitor relief and fan v10 adds a lower profile mount for the cooling fan.
 
 – SB2040 Fan Door v1 adds the cooling fan but is not clearanced for the capacitor, this will be removed as soon as v10 is confirmed good.
+
+Thanks to garbqgebag V2.1135 V0.610 on the VoronDesign Discord for early testing.
