@@ -11,8 +11,8 @@ The fan should be oriented to blow on the board, you'll need to remove the wires
 
 30mm x 10mm:
 
-![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_03.jpg)
-![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_04.jpg)
+![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_03.JPG)
+![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_04.JPG)
 
 
 
