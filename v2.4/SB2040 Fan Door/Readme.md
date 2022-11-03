@@ -5,10 +5,12 @@ Pre-fan, the SB2040 went over 90ºC printing this door. With the 20mm fan it max
 The fan should be oriented to blow on the board, you'll need to remove the wires from the fan's strain relief.
 
 20mm x 10mm:
+
 ![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_01.jpg)
 ![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_02.jpg)
 
 30mm x 10mm:
+
 ![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_03.jpg)
 ![image](https://github.com/allenrowand/voron_mods/blob/main/v2.4/SB2040%20Fan%20Door/images/image_04.jpg)
 
